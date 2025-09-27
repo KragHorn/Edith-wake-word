@@ -3,7 +3,7 @@
   "wake_word": "Edith",
   "author": "Craig Harne",
   "website": "https://github.com/KragHorn",
-  "model": "./edith.tflite",
+  "model": "Edith.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.66,
